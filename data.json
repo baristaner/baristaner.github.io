@@ -1,0 +1,87 @@
+{
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": 5,
+        "icon":"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      },
+      {
+        "name": "React & React (Native)",
+        "level": 5,
+        "icon":"https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      },
+      {
+        "name": "LUA",
+        "level": 5,
+        "icon":"https://camo.githubusercontent.com/ac23621aa950bb432fda8bf60d9c75a4701dbdea34f6201d809aced5529c75b8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63662f4c75612d4c6f676f2e7376672f3132303070782d4c75612d4c6f676f2e7376672e706e67"
+      },
+      {
+        "name": "Python",
+        "level": 4,
+        "icon":"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      },
+      {
+        "name": "TailwindCSS",
+        "level": 4,
+        "icon":"https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg"
+      },
+      {
+        "name": "NodeJS",
+        "level": 4,
+        "icon":"https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+      },
+      {
+        "name": "MySQL",
+        "level": 4,
+        "icon":"https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg"
+      },
+      {
+        "name": "Firebase",
+        "level": 3,
+        "icon":"https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667"
+      },
+      {
+        "name": "MSSQL",
+        "level": 3,
+        "icon":"https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
+      },
+      {
+        "name": "NestJS",
+        "level": 2,
+        "icon":"https://camo.githubusercontent.com/254ea78d3e9a5a32507f6363d464aeddbd7562f64ad74bedf7e60ce47e6b6c5e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f612f61382f4e6573744a532e737667"
+      },
+      {
+        "name": "PrismaJS",
+        "level": 2,
+        "icon":"https://camo.githubusercontent.com/2dd57589260bc8dd2e968d948c05f5fda37bac9e598e9aee2ee81c8618351ed6/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f707269736d612d322e737667"
+      },
+      {
+        "name": "C",
+        "level": 1,
+        "icon":"https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Dijkstra's Algorithm",
+        "description": "A simple pathfinding algorithm using python(tkinter,matplotlib)",
+        "link": "https://github.com/baristaner/Dijkstra-s-Algorithm"
+      },
+      {
+        "name": "Musician App",
+        "description": "Social media mobile app designed just for musicians to find gigs and bandmates.(React-Native,NestJS,PrismaJS,PostgresSQL)",
+        "link": "https://github.com/musician-app"
+      },
+      {
+        "name": "Song Recommendations",
+        "description": "A song recommendation system based on user’s Spotify data Calculates average values for certain audio features of the user's top tracks or selected tracks, and then uses those values to generate a set of recommended tracks.(React,NodeJS)",
+        "link": "https://www.linkedin.com/posts/baristaner_reacttailwind-cssnodejs-kullanarak-geli%C5%9Ftirmeye-activity-7043167740005654528-sWIA?utm_source=share&utm_medium=member_desktop"
+      },
+      {
+        "name": "Folder Encryption",
+        "description": "Basic folder encryption & decryption using python",
+        "link": "https://github.com/baristaner/folder-encryption"
+      }
+    ]
+  }
+  
